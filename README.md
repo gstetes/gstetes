@@ -13,7 +13,7 @@
 </div>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Marolla-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-stetes-895b591a7/)](https://www.linkedin.com/in/guilherme-stetes-895b591a7/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Stetes-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-stetes-895b591a7/)](https://www.linkedin.com/in/guilherme-stetes-895b591a7/) 
 [![HotmailBadge](https://img.shields.io/badge/-gstetes@gmail.com-0078D4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gstetes@gmail.com)](stetesguilherme@gmail.com)
 
 <h3>Tecnologias que utilizo </h3>
