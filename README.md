@@ -2,7 +2,7 @@
 
 <h4>Sobre</h4>
 
-<p>💻 Sou programador fullstack porém meus conhecimentos até o momento são mais voltados para back-end, atualmente estudando mais sobre front-end utilizando React.Js e React Native.</p>
+<p>💻 Sou programador front-end, tendo conhecimentos e aprimorando ainda mais sobre ReactJS e React Native.</p>
 
 <p> 🤝 já conclui diversos projetos na área, alguns você podem ser vistos nos repositórios, mas muitos são da empresa onde trabalho</p>
 
