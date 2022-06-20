@@ -4,7 +4,7 @@
 
 <p>💻 Sou programador front-end, tendo conhecimentos e aprimorando ainda mais sobre ReactJS e React Native.</p>
 
-<p> 🤝 já conclui diversos projetos na área, alguns você podem ser vistos nos repositórios, mas muitos são da empresa onde trabalho</p>
+<p> 🤝 já conclui diversos projetos na área, alguns podem ser vistos nos repositórios, mas muitos são de estudos e projetos pessoais que já executei.</p>
 
 <div align="center">
   <a href="https://github.com/gstetes">
